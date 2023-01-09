@@ -1,0 +1,5 @@
+i am learning how to checkout from master to another branch
+
+then from another branch to master branch
+
+caret files then commit them from another branch to the master branch
